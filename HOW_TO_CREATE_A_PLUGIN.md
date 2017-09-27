@@ -81,7 +81,7 @@ All functions receive an additional argument. This argument is an object contain
 }
 ```
 
-In addition the a plugin accepts 
+In addition the plugin accepts 
 
 - `initialize: (PluginFunctions) => void`
 - `onChange: (EditorState) => EditorState`
