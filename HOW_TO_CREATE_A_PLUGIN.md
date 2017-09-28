@@ -86,7 +86,7 @@ In addition the a plugin accepts
 - `initialize: (PluginFunctions) => void`
 - `onChange: (EditorState) => EditorState`
 - `willUnMount: (PluginFunctions) => void`
-- `decorators: Array<Decorator> => void`
+- `decorators: Array<Decorator>`
 - `getAccessibilityProps: () => { ariaHasPopup: string, ariaExpanded: string }`
 
 -----
